@@ -4,15 +4,30 @@ h1{
     color: darkblue;
 }
 body{
-    background-color: lightgreen;
+
+     background-image: url('https://www.minecraft.net/content/dam/games/minecraft/key-art/Vanilla-PMP_Collection-Carousel-0_Buzzy-Bees_1280x768.jpg');
 }
 table{
     border:2px solid blue;
     border-collapse:collapse;
+    background-color: lightgreen;
 }
 tr{
       border:2px solid blue;
 }
 p{
     background-image: linear-gradient(lightgreen, green);
+}
+.info{
+    background-color: green;
+    border: 1px solid lawngreen;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 20px;
+}
+
+
+.qq{
+    text-align: center;
 }
