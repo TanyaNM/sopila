@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    background-color: aquamarine;
+    color: darkblue;
+}
+body{
+    background-color: lightgreen;
+}
+table{
+    border:2px solid blue;
+    border-collapse:collapse;
+}
+tr{
+      border:2px solid blue;
+}
+p{
+    background-image: linear-gradient(lightgreen, green);
+}
